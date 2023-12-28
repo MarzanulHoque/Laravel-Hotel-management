@@ -1,1 +1,1 @@
-# Laravel-Inventory-management
+# Laravel-Hotel-management
